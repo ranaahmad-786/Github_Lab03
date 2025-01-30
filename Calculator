@@ -6,3 +6,5 @@ x = a +b;
 Console.WriteLine($"The sum of two numbers is {x}");
 y = a-b;
 Console.WriteLine($"The substract of two numbers is {y}");
+z = a * b;
+Console.WriteLine($"The multiplication of two number  is {z}");
