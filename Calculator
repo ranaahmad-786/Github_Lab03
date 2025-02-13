@@ -10,3 +10,6 @@ z = a * b;
 Console.WriteLine($"The multiplication of two number  is {z}");
 p = a /b;
 Console.WriteLine($" The division of two number is {p}");
+
+ABDUL BASIT 
+SET-24-022
